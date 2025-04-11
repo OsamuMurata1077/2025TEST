@@ -1,8 +1,7 @@
-#include <stdio.h>
+#include <iostream>
+#include <Windows.h>
 
 int main() {
-
-	printf("Hello PG3");
-
+	printf("test");
 	return 0;
 }
